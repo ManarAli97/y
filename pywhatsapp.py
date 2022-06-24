@@ -12,7 +12,7 @@ from datetime import date
 import sys
 import os
 
-
+# manar
 
 # To display text arabic
 sys.stdin.reconfigure(encoding='utf-8')
