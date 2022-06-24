@@ -12,7 +12,7 @@ from datetime import date
 import sys
 import os
 
-
+# manar
 
 # To display text arabic
 sys.stdin.reconfigure(encoding='utf-8')
@@ -21,9 +21,6 @@ sys.stdout.reconfigure(encoding='utf-8')
 #Save session user
 options = webdriver.ChromeOptions()
 options.add_argument('--user-data-dir=/User_data')
-
-# today = date.today()
-#datanow = today.strftime("%Y-%m-%d")
 
 phones = []
 # msgs = []
