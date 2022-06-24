@@ -22,9 +22,6 @@ sys.stdout.reconfigure(encoding='utf-8')
 options = webdriver.ChromeOptions()
 options.add_argument('--user-data-dir=/User_data')
 
-# today = date.today()
-#datanow = today.strftime("%Y-%m-%d")
-
 phones = []
 # msgs = []
 success = 0
